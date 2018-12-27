@@ -4,5 +4,7 @@
 permalink: //
 ---
 
-# Bienvenido a mi página web
 
+# Welcome to my website
+
+[Lista de deseos](/wishlist/)
