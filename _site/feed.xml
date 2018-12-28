@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-28T22:33:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Musings in dim light</title><subtitle>Thoughts on life, death, and everything in between</subtitle><entry><title type="html">Cosas que me gustaría aprender</title><link href="http://localhost:4000/level-up/" rel="alternate" type="text/html" title="Cosas que me gustaría aprender" /><published>2018-12-28T00:00:00+01:00</published><updated>2018-12-28T00:00:00+01:00</updated><id>http://localhost:4000/wanted-skills</id><content type="html" xml:base="http://localhost:4000/level-up/">&lt;p&gt;&lt;span style=&quot;color:gray&quot;&gt; La lista no es exhaustiva y la categorización es bastante arbitraria.&lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-28T22:37:21+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Musings in dim light</title><subtitle>Thoughts on life, death, and everything in between</subtitle><entry><title type="html">Cosas que me gustaría aprender</title><link href="http://localhost:4000/level-up/" rel="alternate" type="text/html" title="Cosas que me gustaría aprender" /><published>2018-12-28T00:00:00+01:00</published><updated>2018-12-28T00:00:00+01:00</updated><id>http://localhost:4000/wanted-skills</id><content type="html" xml:base="http://localhost:4000/level-up/">&lt;p&gt;&lt;span style=&quot;color:gray&quot;&gt; La lista no es exhaustiva y la categorización es bastante arbitraria.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -347,6 +347,6 @@
     &lt;p&gt;Ayúdame a diseñar una dieta semanal que sea fácil de preparar y sana. No es necesario que sea muy barata ni que sepa muy bien.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Enséñame alguna habilidad útil, por ejemplo una de &lt;a href=&quot;/level-up/&quot;&gt;estas&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Enséñame alguna habilidad útil, por ejemplo una de &lt;a href=&quot;/level-up/&quot;&gt;estas&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;</content><author><name>Pablo Villalobos</name></author><summary type="html">Si quieres regalarme algo por alguna ocasión especial, puedes inspirarte aquí.</summary></entry></feed>
