@@ -6,6 +6,8 @@ permalink: /level-up/
 
 <span style="color:gray"> La lista no es exhaustiva y la categorización es bastante arbitraria.</span>
 
+----
+
 <br>
 
 ## Habilidades prácticas
